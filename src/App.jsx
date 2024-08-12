@@ -4,21 +4,23 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="/Canva.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          CANVA <span className="heart">♥️</span>
+           AI
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          YOU CAN CREATE ANY IMAGE YOU DESIRE WITH A TEXT <code>Canva AI</code>.
         </p>
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://website.html"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            
+            Text-to-Image
           </a>
         </p>
       </header>
@@ -27,3 +29,4 @@ function App() {
 }
 
 export default App;
+
